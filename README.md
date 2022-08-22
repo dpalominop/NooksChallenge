@@ -12,7 +12,7 @@ However, you can go directly to pipeline.ipynb or export.ipynb and review or exe
 Also, we have created an optional train.py script to run training step, similar to pipeline.ipynb.
 
 ## Results
-(*) For a full review of predictions on evaluation dataset, check results/evaluation_data_results.csv file.
+Report for predictions based on 30% of training dataset:
 
                precision    recall  f1-score   support
 
@@ -22,6 +22,8 @@ Also, we have created an optional train.py script to run training step, similar 
     accuracy                            0.98       861
     macro avg       0.98      0.98      0.98       861
     weighted avg    0.98      0.98      0.98       861
+
+(*) For a full review of predictions on evaluation dataset, check results/evaluation_data_results.csv file.
 
 ## Contact:
 - Daniel Palomino
